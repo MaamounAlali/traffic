@@ -1,0 +1,214 @@
+{
+  "service-signs": [
+    {
+      "title": "Radio channel",
+      "img": "91px-Norwegian-road-sign-601.jpg",
+      "desc": "DAB digital radio relays special traffic announcement messages.",
+      "id": 161
+    },
+    {
+      "title": "First aid",
+      "img": "120px-Norwegian-road-sign-602.0.svg.png",
+      "desc": "",
+      "id": 162
+    },
+    {
+      "title": "Emergency phone",
+      "img": "120px-Norwegian-road-sign-605.0.svg.png",
+      "desc": "",
+      "id": 163
+    },
+    {
+      "title": "Fire extinguisher",
+      "img": "120px-Norwegian-road-sign-606.0.svg.png",
+      "desc": "",
+      "id": 164
+    },
+    {
+      "title": "Automobile repair shop",
+      "img": "120px-Norwegian-road-sign-608.0.svg.png",
+      "desc": "",
+      "id": 165
+    },
+    {
+      "title": "Electric vehicle fast charging station",
+      "img": "120px-Norwegian-road-sign-609.jpg",
+      "desc": "",
+      "id": 166
+    },
+    {
+      "title": "Petrol station",
+      "img": "120px-Norwegian-road-sign-610.1.svg.png",
+      "desc": "",
+      "id": 167
+    },
+    {
+      "title": "Fuel",
+      "img": "120px-Norwegian-road-sign-610.2-LPG.jpg",
+      "desc": "Text vary. LPG is replaced by fuel type e.g. CNG.",
+      "id": 168
+    },
+    {
+      "title": "Toilet emptying facility",
+      "img": "120px-Norwegian-road-sign-611.0.svg.png",
+      "desc": "For caravans, buses, etc.",
+      "id": 169
+    },
+    {
+      "title": "Toilet",
+      "img": "120px-Norwegian-road-sign-612.0.svg.png",
+      "desc": "",
+      "id": 170
+    },
+    {
+      "title": "Rest stop",
+      "img": "120px-Norwegian-road-sign-613.1.svg.png",
+      "desc": "",
+      "id": 171
+    },
+    {
+      "title": "Rest stop with toilet",
+      "img": "120px-Norwegian-road-sign-613.2.svg.png",
+      "desc": "",
+      "id": 172
+    },
+    {
+      "title": "Simple dining",
+      "img": "120px-Norwegian-road-sign-614.0.svg.png",
+      "desc": "",
+      "id": 173
+    },
+    {
+      "title": "Dining",
+      "img": "120px-Norwegian-road-sign-616.0.svg.png",
+      "desc": "",
+      "id": 174
+    },
+    {
+      "title": "Camp site",
+      "img": "120px-Norwegian-road-sign-618.0.svg.png",
+      "desc": "",
+      "id": 175
+    },
+    {
+      "title": "Caravan park",
+      "img": "120px-Norwegian-road-sign-621.0.svg.png",
+      "desc": "",
+      "id": 176
+    },
+    {
+      "title": "Camping park",
+      "img": "120px-Norwegian-road-sign-622.0.svg.png",
+      "desc": "",
+      "id": 177
+    },
+    {
+      "title": "Hostel",
+      "img": "120px-Norwegian-road-sign-624.0.svg.png",
+      "desc": "",
+      "id": 178
+    },
+    {
+      "title": "Bed & Breakfast",
+      "img": "120px-Norwegian-road-sign-625.png",
+      "desc": "",
+      "id": 179
+    },
+    {
+      "title": "Hotel",
+      "img": "120px-Norwegian-road-sign-626.0.svg.png",
+      "desc": "",
+      "id": 180
+    },
+    {
+      "title": "Information",
+      "img": "120px-Norwegian-road-sign-635.0.svg.png",
+      "desc": "",
+      "id": 181
+    },
+    {
+      "title": "Tourist information office",
+      "img": "120px-Norwegian-road-sign-637.0.svg.png",
+      "desc": "",
+      "id": 182
+    },
+    {
+      "title": "Attraction",
+      "img": "120px-Norwegian-road-sign-640.10.svg.png",
+      "desc": "Symbol may be replaced by a representation of the attraction.",
+      "id": 183
+    },
+    {
+      "title": "Museum or Art gallery",
+      "img": "120px-Norwegian-road-sign-640.12.svg.png",
+      "desc": "",
+      "id": 184
+    },
+    {
+      "title": "Viewpoint",
+      "img": "120px-Norwegian-road-sign-640.20.svg.png",
+      "desc": "",
+      "id": 185
+    },
+    {
+      "title": "Protected natural area",
+      "img": "120px-Norwegian-road-sign-640.30.jpg",
+      "desc": "",
+      "id": 186
+    },
+    {
+      "title": "World heritage",
+      "img": "120px-Norwegian-road-sign-640.101.jpg",
+      "desc": "",
+      "id": 187
+    },
+    {
+      "title": "National fortifications",
+      "img": "120px-Norwegian-road-sign-640.102.jpg",
+      "desc": "",
+      "id": 188
+    },
+    {
+      "title": "Activities, outdoor recreation, etc.",
+      "img": "120px-Norwegian-road-sign-650.10.svg.png",
+      "desc": "",
+      "id": 189
+    },
+    {
+      "title": "Fishing area",
+      "img": "120px-Norwegian-road-sign-650.11.svg.png",
+      "desc": "",
+      "id": 190
+    },
+    {
+      "title": "Hiking trail",
+      "img": "120px-Norwegian-road-sign-650.20.svg.png",
+      "desc": "",
+      "id": 191
+    },
+    {
+      "title": "Ski trail",
+      "img": "120px-Norwegian-road-sign-650.21.svg.png",
+      "desc": "",
+      "id": 192
+    },
+    {
+      "title": "Bicycle trail",
+      "img": "120px-Norwegian-road-sign-650.22.jpg",
+      "desc": "",
+      "id": 193
+    },
+    {
+      "title": "Traditional food and rural tourism",
+      "img": "120px-Norwegian-road-sign-650.40.svg.png",
+      "desc": "",
+      "id": 194
+    },
+    {
+      "title": "Olavsrosa",
+      "img": "120px-Norwegian-road-sign-650.41.jpg",
+      "desc": "",
+      "id": 195
+    }
+  ]
+}

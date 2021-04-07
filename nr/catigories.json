@@ -1,0 +1,51 @@
+{
+  "categories": {
+    "en": [
+      {
+        "id": "a",
+        "title": "warning signs",
+        "img": "https://github.com/MaamounAlali/traffic/blob/master/nr/pngImgs/120px-Norwegian-road-sign-100.1.svg.png?raw=true"
+      },
+      {
+        "id": "b",
+        "title": "priority signs",
+        "img": "https://github.com/MaamounAlali/traffic/blob/master/nr/pngImgs/120px-Norwegian-road-sign-202.0.svg.png?raw=true"
+      },
+      {
+        "id": "c",
+        "title": "prohibitory signs",
+        "img": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/120px-Norwegian-road-sign-302.0.svg.png?raw=true"
+      },
+      {
+        "id": "d",
+        "title": "mandatory signs",
+        "img": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/120px-Norwegian-road-sign-402.1.svg.png?raw=true"
+      },
+      {
+        "id": "e",
+        "title": "informative signs",
+        "img": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/86px-Norwegian-road-sign-502.0.svg.png?raw=true"
+      },
+      {
+        "id": "f",
+        "title": "service signs",
+        "img": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/91px-Norwegian-road-sign-601.jpg?raw=true"
+      },
+      {
+        "id": "g",
+        "title": "direction signs",
+        "img": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/120px-Norwegian-road-sign-701.svg.png?raw=true"
+      },
+      {
+        "id": "h",
+        "title": "supplementary signs",
+        "img": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/120px-Norwegian-road-sign-802.0.svg.png?raw=true"
+      },
+      {
+        "id": "i",
+        "title": "marker signs",
+        "img": "https://github.com/MaamounAlali/traffic/blob/master/sw/pngImgs/120px-Norwegian-road-sign-904.0H.svg.png?raw=true"
+      }
+    ]
+  }
+}
